@@ -1,0 +1,24 @@
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\bin\Debug\Menu_ban_hang.exe.config
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\bin\Debug\Menu_ban_hang.exe
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\bin\Debug\Menu_ban_hang.pdb
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.csprojAssemblyReference.cache
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.Form_Login.resources
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.Properties.Resources.resources
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.csproj.GenerateResource.cache
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.csproj.CoreCompileInputs.cache
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.exe
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.pdb
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.Menu.resources
+D:\Tem's Code\code c#\test vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.Hoa_Don.resources
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.csprojAssemblyReference.cache
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.Hoa_Don.resources
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.Form_Login.resources
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.Menu.resources
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.Properties.Resources.resources
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.csproj.GenerateResource.cache
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.csproj.CoreCompileInputs.cache
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.exe
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\obj\Debug\Menu_ban_hang.pdb
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\bin\Debug\Menu_ban_hang.exe.config
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\bin\Debug\Menu_ban_hang.exe
+D:\Code\code c#\Vs2019\For_Hieu\Menu_ban_hang\Menu_ban_hang\bin\Debug\Menu_ban_hang.pdb
